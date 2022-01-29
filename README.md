@@ -107,4 +107,4 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 ### This is a blog site made with GatsbyJS and Graphql
 
-### IN PR0GRESS
+### IN PROGRESS
